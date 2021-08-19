@@ -1,0 +1,14 @@
+h2 + p {
+ font-style: italic;
+ font-weight: bold;
+}
+h2 ~ p {
+    color:brown;
+}
+section > p {
+    background-color: aquamarine;
+
+}
+section p {
+    font-family:monospace;
+}
