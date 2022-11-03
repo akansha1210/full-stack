@@ -1,2 +1,2 @@
 console.log('External JS')
-alert('external js')
+alert('external js')nb bn
